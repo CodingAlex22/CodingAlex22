@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/3NSX8yB/Alex-Nunez-1.png" width="100%">
+
 ### Hi there, I'm Alex 👋
 
 **`Full-stack Software Engineer`**
