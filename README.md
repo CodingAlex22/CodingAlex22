@@ -53,7 +53,7 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
            <td width="50%">
 				<h3 align="center" color="white">Crypto Indicators</h2>
 				<div align="center" >  
-					<a href='https://cuisine-resturant4923.onrender.com'>
+					<a href='https://crypto-indicators20.netlify.app/'>
 						<img src="https://i.ibb.co/SxSLn0J/ezgif-4-27886f0530.gif" height="80%" />
 					</a>
 					<br>
