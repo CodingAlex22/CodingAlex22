@@ -88,7 +88,6 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 	
 ## Connect
 	
-	<p align="center">
   <a href="https://alex-nunez-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -98,7 +97,6 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
   <a href="https://twitter.com/CodingAlex" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-</p>
 
 
 
