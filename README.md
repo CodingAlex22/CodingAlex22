@@ -50,10 +50,10 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/7XJtXQS/ezgif-3-3510adc07c.gif" height="80%" />
 					</a>
 					<br>
-						   	 <a href="" target="_blank">
+						   	 <a href="https://github.com/CodingAlex22/restaurant" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://cuisine-resturant4923.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
 					<br>
