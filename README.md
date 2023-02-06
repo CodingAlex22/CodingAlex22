@@ -33,10 +33,10 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/WnM9B6V/ezgif-2-30954981ee.gif" height="80%" />
 					</a>
 					<br>
-						   	 <a href="" target="_blank">
+						   	 <a href="https://hairsalon927a.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/CodingAlex22/hair-salon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
 					<br>
@@ -69,10 +69,10 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/SxSLn0J/ezgif-4-27886f0530.gif" height="80%" />
 					</a>
 					<br>
-						   	 <a href="" target="_blank">
+						   	 <a href="https://github.com/CodingAlex22/crypto-indicators" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://crypto-indicators20.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
 					<br>
