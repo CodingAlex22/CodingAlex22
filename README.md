@@ -33,6 +33,12 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/WnM9B6V/ezgif-2-30954981ee.gif" height="80%" />
 					</a>
 					<br>
+						   	 <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
 					<br>
 					 <p><img align="left" width="43px" style="padding-right:10px;" src="https://i.ibb.co/5swJBzr/512px-HTML5-logo-and-wordmark-svg.png" alt="html"><img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/2hgB7CZ/CSS3-logo-and-wordmark-svg.png" alt="css"> - A simple hair salon static website that uses modern design made with only HTML and CSS</p>
 				</div>
@@ -44,6 +50,12 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/7XJtXQS/ezgif-3-3510adc07c.gif" height="80%" />
 					</a>
 					<br>
+						   	 <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
 					<br>
 					 <p><img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/k2x2dC6/React-icon-svg.png" alt="react"> - A resturant website that showcases a menu and other features using modern design made using React and Bootstrap.</p>
 				</div>
@@ -57,6 +69,12 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/SxSLn0J/ezgif-4-27886f0530.gif" height="80%" />
 					</a>
 					<br>
+						   	 <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
 					<br>
 					 <p><img align="left" width="43px" style="padding-right:10px;" src="https://i.ibb.co/5swJBzr/512px-HTML5-logo-and-wordmark-svg.png" alt="html">
               <img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/2hgB7CZ/CSS3-logo-and-wordmark-svg.png" alt="css">
@@ -73,6 +91,12 @@ I am a software engineer based in Seattle, Washington. I have worked on designin
 						<img src="https://i.ibb.co/mNg83qw/ezgif-4-8ece80c788.gif" height="80%" />
 					</a>
 					<br>
+						   	 <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
 					<br>
 					 <p><img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/JFLG74F/js.png" alt="javascript">
    <img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/c29mj5N/nodejs.png" alt="node">
